@@ -1,0 +1,136 @@
+.AppLogo{
+    margin-left: 1rem;
+}
+
+.AppName{
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+.SplashLogo{
+    width: 95%;
+    margin: 2%;
+    border-radius: 10px;
+}
+
+.CompanyName{
+    font-size: 16px;
+}
+
+.Data{
+    width: 95%;
+    padding: 1%;
+}
+
+li{
+    font-size: 16px;
+    margin-left: 1rem;
+    margin-top: 0.1rem;
+    margin-top: 0.1rem;
+}
+
+li:Hover{
+    color: forestgreen;
+}
+
+.ImageHolder{
+    position: relative;
+    width: 95%;
+    height: 30%;
+    margin: 2%;
+    border-radius: 10px;
+    display: inline-flex;
+    overflow-x: auto;
+}
+
+.HeldImage{
+    width: 95%;
+    height: auto;
+    object-fit: cover;
+    flex-shrink: 0;
+    margin: 2%;
+}
+
+.ContactsDiv{
+    position: relative;
+    width: 95%;
+    height: 50px;
+    margin: 2%;
+    border-radius: 10px;
+    display: inline-flex;
+    background: transparent;
+    border: 1px solid #cdcdcd20;
+}
+
+@media screen and (min-width:800px) {
+
+    .AppLogo{
+        margin-left: 1rem;
+    }
+    
+    .AppName{
+        font-size: 16px;
+        margin-left: auto;
+        margin-right: auto;
+        text-align: left;
+    }
+    
+    .SplashLogo{
+        width: 95%;
+        height: 70%;
+        margin: 2%;
+        border-radius: 10px;
+    }
+    
+    .CompanyName{
+        font-size: 16px;
+    }
+    
+    .Data{
+        width: 95%;
+        padding: 1%;
+    }
+    
+    li{
+        font-size: 16px;
+        margin-left: 13rem;
+        margin-top: 0.1rem;
+        margin-top: 0.1rem;
+    }
+    
+    li:Hover{
+        color: forestgreen;
+    }
+    
+    .ImageHolder{
+        position: relative;
+        width: 90%;
+        height: 50%;
+        margin: 5%;
+        border-radius: 10px;
+        display: inline-flex;
+        overflow-x: auto;
+    }
+    
+    .HeldImage{
+        width: 95%;
+        height: 100%;
+        object-fit: contain;
+        flex-shrink: 0;
+        margin: 2%;
+    }
+    
+    .ContactsDiv{
+        position: relative;
+        width: 95%;
+        height: 50px;
+        margin: 2%;
+        border-radius: 10px;
+        display: inline-flex;
+        background: transparent;
+        border: 1px solid #cdcdcd20;
+    }
+    
+}

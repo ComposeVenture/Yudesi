@@ -44,15 +44,15 @@ export const HOMEPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/hardwork.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}hardwork.jpg'/>
             
-                <img class='HeldImage' src='../../Components/Library/Images/casaavaplantation.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}casaavaplantation.jpg'/>
             
-                <img class='HeldImage' src='../../Components/Library/Images/sorghum.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}sorghum.jpg'/>
             
-                <img class='HeldImage' src='../../Components/Library/Images/cassava.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}cassava.jpg'/>
 
-                <img class='HeldImage' src='../../Components/Library/Images/beans.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}beans.jpg'/>
 
             </div>
 

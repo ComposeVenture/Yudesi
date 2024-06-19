@@ -40,11 +40,11 @@ export const ABOUTUSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/food wastage.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}food wastage.jpg'/>
 
-                <img class='HeldImage' src='../../Components/Library/Images/fod wastage 2.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}fod wastage 2.jpg'/>
 
-                <img class='HeldImage' src='../../Components/Library/Images/food wastage 3.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}food wastage 3.jpg'/>
 
             </div>
 
@@ -76,7 +76,7 @@ export const ABOUTUSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/archievedcassava.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}archievedcassava.jpg'/>
 
             </div>
             

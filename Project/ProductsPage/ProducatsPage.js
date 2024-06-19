@@ -21,7 +21,7 @@ export const PRODUCTSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/cassava flour.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}cassava flour.jpg'/>
 
             </div>
 
@@ -41,7 +41,7 @@ export const PRODUCTSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/maize flour.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}maize flour.jpg'/>
 
             </div>
                     
@@ -61,7 +61,7 @@ export const PRODUCTSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/rice.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}rice.jpg'/>
 
             </div>
 
@@ -81,7 +81,7 @@ export const PRODUCTSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/gnuts.png'/>
+                <img class='HeldImage' src='${IMAGEPATH}gnuts.png'/>
 
             </div>
 
@@ -101,7 +101,7 @@ export const PRODUCTSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/beans.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}beans.jpg'/>
 
             </div>
 
@@ -115,7 +115,7 @@ export const PRODUCTSPAGE=()=>{
 
             <div class='ImageHolder'>
 
-                <img class='HeldImage' src='../../Components/Library/Images/sorghumorganic.jpg'/>
+                <img class='HeldImage' src='${IMAGEPATH}sorghumorganic.jpg'/>
 
             </div>
 

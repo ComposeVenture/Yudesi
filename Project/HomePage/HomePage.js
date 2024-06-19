@@ -8,7 +8,7 @@ export const HOMEPAGE=()=>{
             
         `
 
-            <img class='AppLogo' src='../Components/Library/Images/app_icon.png'/>
+            <img class='AppLogo' src='${IMAGEPATH}app_icon.png'/>
 
             <h1 id='Products' class='AppName'>Products</h1>
 
@@ -20,7 +20,7 @@ export const HOMEPAGE=()=>{
 
         `
 
-            <img class='SplashLogo' src='../Components/Library/Images/app_icon.png'/>
+            <img class='SplashLogo' src='${IMAGEPATH}app_icon.png'/>
 
             <h1 class='CompanyName'>Yudesi Organic Supplies Limited</h1>
 
